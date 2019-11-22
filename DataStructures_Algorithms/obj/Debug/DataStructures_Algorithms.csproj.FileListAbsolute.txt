@@ -1,0 +1,46 @@
+c:\Users\mabdel\Documents\Visual Studio 2015\Projects\SIT221\DataStructures_Algorithms\bin\Debug\DataStructures_Algorithms.dll
+c:\Users\mabdel\Documents\Visual Studio 2015\Projects\SIT221\DataStructures_Algorithms\bin\Debug\DataStructures_Algorithms.pdb
+c:\Users\mabdel\Documents\Visual Studio 2015\Projects\SIT221\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.csprojResolveAssemblyReference.cache
+c:\Users\mabdel\Documents\Visual Studio 2015\Projects\SIT221\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.dll
+c:\Users\mabdel\Documents\Visual Studio 2015\Projects\SIT221\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.pdb
+C:\Working\2017\Teaching\221\Assignment 1\SIT221 Project1\SIT221 Project1\DataStructures_Algorithms\bin\Debug\DataStructures_Algorithms.dll
+C:\Working\2017\Teaching\221\Assignment 1\SIT221 Project1\SIT221 Project1\DataStructures_Algorithms\bin\Debug\DataStructures_Algorithms.pdb
+C:\Working\2017\Teaching\221\Assignment 1\SIT221 Project1\SIT221 Project1\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.csprojResolveAssemblyReference.cache
+C:\Working\2017\Teaching\221\Assignment 1\SIT221 Project1\SIT221 Project1\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.dll
+C:\Working\2017\Teaching\221\Assignment 1\SIT221 Project1\SIT221 Project1\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.pdb
+C:\Working\2017\Teaching\221\Assignment 1\SIT221 Project1_Solution_Thanh\SIT221 Project1\DataStructures_Algorithms\bin\Debug\DataStructures_Algorithms.dll
+C:\Working\2017\Teaching\221\Assignment 1\SIT221 Project1_Solution_Thanh\SIT221 Project1\DataStructures_Algorithms\bin\Debug\DataStructures_Algorithms.pdb
+C:\Working\2017\Teaching\221\Assignment 1\SIT221 Project1_Solution_Thanh\SIT221 Project1\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.csprojResolveAssemblyReference.cache
+C:\Working\2017\Teaching\221\Assignment 1\SIT221 Project1_Solution_Thanh\SIT221 Project1\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.dll
+C:\Working\2017\Teaching\221\Assignment 1\SIT221 Project1_Solution_Thanh\SIT221 Project1\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.pdb
+C:\Working\2017\Teaching\221\Assignment 2\SIT221 Project2_Thanh\SIT221 Project2\DataStructures_Algorithms\bin\Debug\DataStructures_Algorithms.dll
+C:\Working\2017\Teaching\221\Assignment 2\SIT221 Project2_Thanh\SIT221 Project2\DataStructures_Algorithms\bin\Debug\DataStructures_Algorithms.pdb
+C:\Working\2017\Teaching\221\Assignment 2\SIT221 Project2_Thanh\SIT221 Project2\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.csprojResolveAssemblyReference.cache
+C:\Working\2017\Teaching\221\Assignment 2\SIT221 Project2_Thanh\SIT221 Project2\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.dll
+C:\Working\2017\Teaching\221\Assignment 2\SIT221 Project2_Thanh\SIT221 Project2\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.pdb
+J:\Documents\aaUNI\Year2\Tri2\SIT221\ass2\SIT221 Project2\DataStructures_Algorithms\bin\Debug\DataStructures_Algorithms.dll
+J:\Documents\aaUNI\Year2\Tri2\SIT221\ass2\SIT221 Project2\DataStructures_Algorithms\bin\Debug\DataStructures_Algorithms.pdb
+J:\Documents\aaUNI\Year2\Tri2\SIT221\ass2\SIT221 Project2\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.csprojResolveAssemblyReference.cache
+J:\Documents\aaUNI\Year2\Tri2\SIT221\ass2\SIT221 Project2\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.dll
+J:\Documents\aaUNI\Year2\Tri2\SIT221\ass2\SIT221 Project2\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.pdb
+J:\Documents\aaUNI\Year2\Tri2\SIT221\ass2v2\SIT221 Project2\DataStructures_Algorithms\bin\Debug\DataStructures_Algorithms.dll
+J:\Documents\aaUNI\Year2\Tri2\SIT221\ass2v2\SIT221 Project2\DataStructures_Algorithms\bin\Debug\DataStructures_Algorithms.pdb
+J:\Documents\aaUNI\Year2\Tri2\SIT221\ass2v2\SIT221 Project2\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.csprojResolveAssemblyReference.cache
+J:\Documents\aaUNI\Year2\Tri2\SIT221\ass2v2\SIT221 Project2\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.dll
+J:\Documents\aaUNI\Year2\Tri2\SIT221\ass2v2\SIT221 Project2\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.pdb
+J:\Documents\aaUNI\Year2\Tri2\SIT221\ass2v3\SIT221 Project2\DataStructures_Algorithms\bin\Debug\DataStructures_Algorithms.dll
+J:\Documents\aaUNI\Year2\Tri2\SIT221\ass2v3\SIT221 Project2\DataStructures_Algorithms\bin\Debug\DataStructures_Algorithms.pdb
+J:\Documents\aaUNI\Year2\Tri2\SIT221\ass2v3\SIT221 Project2\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.csprojResolveAssemblyReference.cache
+J:\Documents\aaUNI\Year2\Tri2\SIT221\ass2v3\SIT221 Project2\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.dll
+J:\Documents\aaUNI\Year2\Tri2\SIT221\ass2v3\SIT221 Project2\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.pdb
+J:\Documents\aaUNI\Year2\Tri2\SIT221\ass2v4\SIT221 Project2\DataStructures_Algorithms\bin\Debug\DataStructures_Algorithms.dll
+J:\Documents\aaUNI\Year2\Tri2\SIT221\ass2v4\SIT221 Project2\DataStructures_Algorithms\bin\Debug\DataStructures_Algorithms.pdb
+J:\Documents\aaUNI\Year2\Tri2\SIT221\ass2v4\SIT221 Project2\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.csprojResolveAssemblyReference.cache
+J:\Documents\aaUNI\Year2\Tri2\SIT221\ass2v4\SIT221 Project2\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.dll
+J:\Documents\aaUNI\Year2\Tri2\SIT221\ass2v4\SIT221 Project2\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.pdb
+D:\Documents\aaUNI\Year2\Tri2\SIT221\ass2v4\SIT221 Project2\DataStructures_Algorithms\bin\Debug\DataStructures_Algorithms.dll
+D:\Documents\aaUNI\Year2\Tri2\SIT221\ass2v4\SIT221 Project2\DataStructures_Algorithms\bin\Debug\DataStructures_Algorithms.pdb
+D:\Documents\aaUNI\Year2\Tri2\SIT221\ass2v4\SIT221 Project2\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.csprojAssemblyReference.cache
+D:\Documents\aaUNI\Year2\Tri2\SIT221\ass2v4\SIT221 Project2\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.csproj.CoreCompileInputs.cache
+D:\Documents\aaUNI\Year2\Tri2\SIT221\ass2v4\SIT221 Project2\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.dll
+D:\Documents\aaUNI\Year2\Tri2\SIT221\ass2v4\SIT221 Project2\DataStructures_Algorithms\obj\Debug\DataStructures_Algorithms.pdb

@@ -1,0 +1,14 @@
+/Work/Teaching/SIT221/2016/Labs/Week02/SIT221 Sample Answer/DataStructures_Algorithms/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Work/Teaching/SIT221/2016/Labs/Week02/SIT221 Sample Answer/DataStructures_Algorithms/bin/Debug/DataStructures_Algorithms.dll.mdb
+/Work/Teaching/SIT221/2016/Labs/Week02/SIT221 Sample Answer/DataStructures_Algorithms/bin/Debug/DataStructures_Algorithms.pdb
+/Work/Teaching/SIT221/2016/Labs/Week02/SIT221 Sample Answer/DataStructures_Algorithms/bin/Debug/DataStructures_Algorithms.dll
+/Work/Teaching/SIT221/2016/Labs/Week02/SIT221 Sample Answer/DataStructures_Algorithms/obj/Debug/DataStructures_Algorithms.dll
+/Work/Teaching/SIT221/2016/Labs/Week02/SIT221 Sample Answer/DataStructures_Algorithms/obj/Debug/DataStructures_Algorithms.dll.mdb
+/Work/Teaching/SIT221/2016/Labs/Week02/SIT221 Sample Answer/DataStructures_Algorithms/obj/Debug/DataStructures_Algorithms.pdb
+/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/DataStructures_Algorithms/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/DataStructures_Algorithms/obj/Debug/DataStructures_Algorithms.dll
+/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/DataStructures_Algorithms/obj/Debug/DataStructures_Algorithms.dll.mdb
+/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/DataStructures_Algorithms/obj/Debug/DataStructures_Algorithms.pdb
+/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/DataStructures_Algorithms/bin/Debug/DataStructures_Algorithms.dll.mdb
+/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/DataStructures_Algorithms/bin/Debug/DataStructures_Algorithms.pdb
+/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/DataStructures_Algorithms/bin/Debug/DataStructures_Algorithms.dll
